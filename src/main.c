@@ -113,7 +113,7 @@ int main ()
 		steps=k[1]*16/CIRCUM;
 		break;
 	}
-//since a pulse has to be given for every step,
+//since a pulse has to be given for every
 	set_bits();
 
 /*	char k=buffer;
